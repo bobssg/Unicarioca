@@ -1,0 +1,3 @@
+C:/Users/Thiago/Desktop/Unicarioca/Unicarioca/cmake-build-debug/CMakeFiles/Unicarioca.dir
+C:/Users/Thiago/Desktop/Unicarioca/Unicarioca/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thiago/Desktop/Unicarioca/Unicarioca/cmake-build-debug/CMakeFiles/rebuild_cache.dir

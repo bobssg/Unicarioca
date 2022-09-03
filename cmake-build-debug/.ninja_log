@@ -1,0 +1,6 @@
+# ninja log v5
+2	248	6839045092540663	build.ninja	d471a5ea746782db
+2	97	6839044422344735	CMakeFiles/Unicarioca.dir/tema1ex1.c.obj	d83c19615c3c72bb
+3	111	6839043521475693	CMakeFiles/Unicarioca.dir/main.c.obj	dbdfdb3c2808953a
+111	272	6839043523095663	Unicarioca.exe	f79cd7626e039683
+2	162	6839045245656290	Unicarioca.exe	f79cd7626e039683
