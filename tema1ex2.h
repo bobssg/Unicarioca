@@ -11,21 +11,21 @@
 
 int main(){
     char palavra [50];
-    int qtdAs = 0;
-    int i;
+    int qtdLetras , qtdAs = 0, i;
 
     printf("Digite a palavra: ");
-    scanf("%s", palavra);
-    printf("\n\n palavra digitada:\n %s", palavra);
+    scanf("s", &palavra);
 
-    for (i=0; palavra[i] !='\0'; i=i+1) {
+    qtdLetras = strlen(palavra);
 
-        if (palavra[i] == 'a' || palavra[i] == 'A');
-        qtdAs = qtdAs + 1;
-
+    for (i = 0; i<= qtdLetras; i++) {
+        switch (palavra[i]) {
+            case 'A':
+            case 'a':
+                qtdAs++;
+                break;
+        }
     }
-    printf("A quantidade de letas a sao; %i", qtdAs);
-
 
 
     return 0;

@@ -3,4 +3,4 @@ project(Unicarioca C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Unicarioca main.c tema1ex1.h)
+add_executable(Unicarioca main.c tema1ex1.h tema1ex2.h)
