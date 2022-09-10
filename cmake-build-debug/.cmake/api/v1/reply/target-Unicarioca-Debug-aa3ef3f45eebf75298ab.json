@@ -92,8 +92,7 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0,
-				5
+				0
 			]
 		},
 		{
@@ -104,7 +103,7 @@
 				2,
 				3,
 				4,
-				6
+				5
 			]
 		}
 	],
@@ -138,12 +137,7 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "testedevez.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "testedevez.h",
+			"path" : "tema2ex1.h",
 			"sourceGroupIndex" : 1
 		}
 	],
