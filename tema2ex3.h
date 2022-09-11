@@ -25,8 +25,7 @@ int main() {
     } else {
         printf("\nAluno aprovado\n");
         printf("%.1f", resultado);
-
-
+        
     }
 }
 
